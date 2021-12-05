@@ -1,1 +1,1 @@
-# Diploma-work-KFU
+# Service for style transfer on images 
